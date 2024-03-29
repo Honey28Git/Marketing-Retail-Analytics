@@ -29,3 +29,4 @@ o The suggestion of Possible Combos with Lucrative Offers
  Make discount offers or combos ( or buy two get one free) based on the associations and your experience
 
 
+![WorldCloud for Most Loved Items](https://github.com/Honey28Git/Marketing-Retail-Analytics/assets/105299685/71d4e37c-5d40-4e57-b735-25071a98c870)
